@@ -1,0 +1,13 @@
+tyler:
+    first_name: "Tyler"
+    last_name: "Kresch"
+    email: "TJKresch@gmail.com"
+    profile_name: "TJKresch"
+    # password: "password"
+    # password_confirmation: "password"
+
+preston:
+    first_name: "Preston"
+    last_name: "Kresch"
+    email: "Prestomatic07@yahoo.com"
+    profile_name: Prestomatic07
