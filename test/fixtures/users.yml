@@ -10,4 +10,10 @@ preston:
     first_name: "Preston"
     last_name: "Kresch"
     email: "Prestomatic07@yahoo.com"
-    profile_name: Prestomatic07
+    profile_name: "Prestomatic07"
+
+hannah:
+    first_name: "Hannah"
+    last_name: "Kissel"
+    email: "hbkissel@umail.ucsb.edu"
+    profile_name: "HBKissel"
